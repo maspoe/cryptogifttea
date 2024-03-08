@@ -1,6 +1,6 @@
 {
   "name": "cryptogifttea",
-  "version": "1.1.4",
+  "version": "1.1.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maspoe/cryptogifttea.git"
+    "url": "https://github.com/maspoe/cryptogifttea"
   },
   "author": "maspoe",
   "license": "ISC",
