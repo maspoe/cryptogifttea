@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maspoe/ccryptogifttea.git"
+    "url": "git+https://github.com/maspoe/cryptogifttea.git"
   },
   "author": "maspoe",
   "license": "ISC",
