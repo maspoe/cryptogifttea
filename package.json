@@ -27,12 +27,12 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maspoe/cryptotea"
+    "url": "git+https://github.com/maspoe/ccryptogifttea.git"
   },
   "author": "maspoe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maspoe/cryptotea/issues"
+    "url": "https://github.com/maspoe/cryptogifttea/issues"
   },
-  "homepage": "https://github.com/maspoe/cryptotea#readme"
+  "homepage": "https://github.com/maspoe/cryptogifttea#readme"
 }
